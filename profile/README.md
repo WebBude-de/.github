@@ -5,7 +5,7 @@
 
   <h1>WebBude</h1>
 
-  <p><strong>Software, die sich Ihrem Unternehmen anpasst 💡</strong></p>
+  <p><strong>Ihre Website. Und alles, was dahinter läuft.</strong></p>
 
   <p>
     <a href="https://web-bude.de" title="Website"><img src="icons/website.svg" alt="Website" width="44" height="44" /></a>&nbsp;
